@@ -1,4 +1,4 @@
-DEPENDENCIES OF THE PROJECT of:
+DEPENDENCIES OF THE PROJECT:
 
 Cloud Services
 Amazon Web Services S3 - Resource hosting and deployments
